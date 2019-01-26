@@ -1,2 +1,2 @@
-# PracticeStreak
-A simple program to encourage daily practice of a musical instrument.
+# PractiseStreak
+A simple program to encourage daily practise of a musical instrument.
